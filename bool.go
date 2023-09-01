@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func main4() {
 	names := []string{"mario", "luigi", "yoshi", "peach", "bowser"}
 
 	for index, value := range names {

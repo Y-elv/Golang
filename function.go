@@ -40,7 +40,7 @@ func initials(n string) (string, string) {
 
 }
 
-func main() {
+func main2() {
 	sayGreeting("elvis")
 	sayBye("eddy")
 	fmt.Println("\n")

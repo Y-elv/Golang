@@ -2,6 +2,8 @@ package main
 
 import "fmt"
 
+var scoree = 34
+
 func main() {
 
 	var name string = "elvis"
@@ -46,5 +48,12 @@ func main() {
 	fmt.Println(rangeThree)
 	rangeThree = append(rangeThree, 100)
 	fmt.Println(rangeThree)
+
+	// package scode
+	sayHello("elvis")
+	for _, v := range point {
+		fmt.Println(v)
+	}
+	showScorescore()
 
 }
