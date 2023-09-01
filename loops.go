@@ -29,6 +29,7 @@ func main() {
 	}
 	//for ommiting one of this two (index,value)
 	fmt.Println("\n")
+
 	for _, value := range names {
 		fmt.Printf("the value is %v\n", value)
 	}
