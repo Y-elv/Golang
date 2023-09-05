@@ -55,5 +55,9 @@ func main() {
 		fmt.Println(v)
 	}
 	showScorescore()
-
+	mybill := newBill("elvis 's bill")
+	mybill.updateTip(10)
+	mybill.addItem("chips", 12.2)
+	mybill.addItem("coffe", 12.2)
+	fmt.Println(mybill.format())
 }
