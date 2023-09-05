@@ -1,0 +1,5 @@
+Bill breakdown : 
+phone:                    ...$45 
+pc:                       ...$23 
+tip:                     ...$6
+total:                    ...$74.00
